@@ -19,7 +19,7 @@ Input:
 Output:
 abc*+
 ab+zx+*
-
+at+bac++cd+^*
 */
 
 #include <iostream>
